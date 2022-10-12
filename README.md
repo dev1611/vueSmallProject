@@ -1,4 +1,4 @@
-# restaurent-project
+# Worker-project
 
 ## Project setup
 ```
